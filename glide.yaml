@@ -1,0 +1,5 @@
+package: github.com/wuryscamp/go-memc
+import:
+- package: github.com/bradfitz/gomemcache
+  subpackages:
+  - memcache
